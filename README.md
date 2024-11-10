@@ -1,4 +1,3 @@
-# Bookstore
 # Project Title
 
 ## Key Features
